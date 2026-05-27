@@ -1,0 +1,8 @@
+flask
+flasgger
+redis
+requests
+sentence-transformers
+chromadb
+python-dotenv
+werkzeug

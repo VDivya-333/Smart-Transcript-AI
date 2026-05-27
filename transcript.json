@@ -1,0 +1,5 @@
+[
+  { "speaker": "Agent 1", "text": "Hello, how can I help you?", "start": 0, "end": 3 },
+  { "speaker": "Customer 1", "text": "I need help with my order.", "start": 3, "end": 6 },
+  { "speaker": "Agent 1", "text": "Sure, I can help you with that.", "start": 6, "end": 9 }
+]
