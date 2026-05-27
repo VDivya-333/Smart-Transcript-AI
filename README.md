@@ -74,5 +74,3 @@ streamlit run streamlit_app.py
     - Enter the Transcript ID and your question.
     - The system will retrieve the most relevant segments from that specific conversation.
 
-## 📄 License
-MIT
